@@ -74,7 +74,7 @@
 
 2. **Clone the repository**:
    ```sh
-   git clone https://github.com/Shreya0789/-leech
+   git clone https://github.com/Shreya0789/Annex
    ```
 4. **Create virtual environment**:
    ```sh
@@ -83,7 +83,7 @@
 
 5. **Activate environment**:
    ```sh
-   cd -leech
+   cd Annex
    ```
 6. **Install dependencies**:
    ```sh
