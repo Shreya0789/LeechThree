@@ -331,7 +331,7 @@ async def start(bot, m: Message):
             f"🌟 Welcome {m.from_user.first_name}! 🌟\n\n" +
             f"Great! You are a premium member!\n"
             f"Use Command : /help to get started 🌟\n\n"
-            f"If you face any problem contact -  [𝙎𝘼𝙄𝙉𝙄 𝘽𝙊𝙏𝙎](https://t.me/saini_contact_bot)\n", disable_web_page_preview=True, reply_markup=BUTTONSCONTACT
+            f"If you face any problem contact -  [ꜱʜʀᴇʏᴀ](https://t.me/RAJCONTACTBOTbot)\n", disable_web_page_preview=True, reply_markup=BUTTONSCONTACT
         )
     else:
         await asyncio.sleep(2)
@@ -412,28 +412,23 @@ async def info(bot: Client, update: Message):
 async def txt_handler(client: Client, m: Message):
     await bot.send_message(m.chat.id, text= (
         f"💥 𝐁𝐎𝐓𝐒 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒\n"
-        f"▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n" 
+        f"═════━‧₊˚❀༉‧₊˚.━═════-\n" 
         f"📌 𝗠𝗮𝗶𝗻 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:\n\n"  
-        f"➥ /start – Bot Status Check\n"
-        f"➥ /drm – Extract from .txt (Auto)\n"
-        f"➥ /y2t – YouTube → .txt Converter\n"  
-        f"➥ /t2t – Text → .txt Generator\n" 
-        f"➥ /stop – Cancel Running Task\n"
-        f"▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ \n" 
+        f"➥ /start – ʙᴏᴛ ꜱᴛᴀᴛᴜꜱ ᴄʜᴇᴄᴋ\n"
+        f"➥ /drm – ᴇxᴛʀᴀᴄᴛ ꜰʀᴏᴍ .ᴛxᴛ (ᴀᴜᴛᴏ)\n"
+        f"➥ /y2t – ʏᴏᴜᴛᴜʙᴇ → .ᴛxᴛ ᴄᴏɴᴠᴇʀᴛᴇʀ\n"  
+        f"➥ /t2t – ᴛᴇxᴛ → .ᴛxᴛ ɢᴇɴᴇʀᴀᴛᴏʀ\n" 
+        f"➥ /stop – ᴄᴀɴᴄᴇʟ ʀᴜɴɴɪɴɢ ᴛᴀꜱᴋ\n"
+        f"═════━‧₊˚❀༉‧₊˚.━═════- \n" 
         f"⚙️ 𝗧𝗼𝗼𝗹𝘀 & 𝗦𝗲𝘁𝘁𝗶𝗻𝗴𝘀: \n\n" 
-        f"➥ /cookies – Update YT Cookies\n" 
-        f"➥ /id – Get Chat/User ID\n"  
-        f"➥ /info – User Details\n"  
-        f"➥ /logs – View Bot Activity\n"
-        f"▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n"
-        f"👤 𝐔𝐬𝐞𝐫 𝐀𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐢𝐨𝐧: **(OWNER)**\n\n" 
-        f"➥ /addauth xxxx – Add User ID\n" 
-        f"➥ /rmauth xxxx – Remove User ID\n"  
-        f"➥ /users – Total User List\n"  
-        f"▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n"
+        f"➥ /cookies – ᴜᴘᴅᴀᴛᴇ ʏᴛ ᴄᴏᴏᴋɪᴇꜱ\n" 
+        f"➥ /id – ɢᴇᴛ ᴄʜᴀᴛ/ᴜꜱᴇʀ ɪᴅ\n"  
+        f"➥ /info – ᴜꜱᴇʀ ᴅᴇᴛᴀɪʟꜱ\n"  
+        f"➥ /logs – ᴠɪᴇᴡ ʙᴏᴛ ᴀᴄᴛɪᴠɪᴛʏ\n"
+        f"═════━‧₊˚❀༉‧₊˚.━═════-\n"
         f"💡 𝗡𝗼𝘁𝗲:\n\n"  
-        f"• Send any link for auto-extraction\n"  
-        f"• Supports batch processing\n\n"  
+        f"• ꜱᴇɴᴅ ᴀɴʏ ʟɪɴᴋ ꜰᴏʀ ᴀᴜᴛᴏ-ᴇxᴛʀᴀᴄᴛɪᴏɴ\n"  
+        f"• ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴀᴛᴄʜ ᴘʀᴏᴄᴇꜱꜱɪɴɢ\n\n"  
         f"╭────────⊰◆⊱────────╮\n"   
         f" ➠ 𝐌𝐚𝐝𝐞 𝐁𝐲 : {CREDIT} 💻\n"
         f"╰────────⊰◆⊱────────╯\n"
