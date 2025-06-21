@@ -57,11 +57,16 @@
 
 ### 🛠️ System Preparation
 1. **Update your system** (Recommended):
+
    ```sh
+   sudo apt update && sudo apt upgrade -y
+   ```
+
+    ```sh
    sudo apt install python3-full
    ```
 
-2. **Install essential tools**:
+3. **Install essential tools**:
    ```sh
    python3 -m venv venv
    ```
@@ -100,8 +105,11 @@
      ```
    - **For advanced users** (vim):
      ```sh
-     python main.py
+     sudo apt install tmux && tmux
      ```
+    ```sh
+    python3 main.py
+    ```
      
 9. **bot token dalo aisa hoga** (keeps running after logout):
    ```sh
