@@ -3,23 +3,23 @@
 
 <p align="center">
   <!-- GitHub Stars -->
-  <a href="https://github.com/Shreya0789/-leech/stargazers">
-    <img src="https://img.shields.io/github/stars/Shreya0789/-leech?style=for-the-badge&color=black&logo=github" alt="Stars"/>
+  <a href="https://github.com/Shreya0789/Annex/stargazers">
+    <img src="https://img.shields.io/github/stars/Shreya0789/Annex?style=for-the-badge&color=black&logo=github" alt="Stars"/>
   </a>
   
   <!-- GitHub Forks -->
-  <a href="https://github.com/Shreya0789/-leech/network/members">
-    <img src="https://img.shields.io/github/forks/Shreya0789/-leech?style=for-the-badge&color=black&logo=github" alt="Forks"/>
+  <a href="https://github.com/Shreya0789/Annex/network/members">
+    <img src="https://img.shields.io/github/forks/Shreya0789/Annex?style=for-the-badge&color=black&logo=github" alt="Forks"/>
   </a>
 
   <!-- Last Commit -->
-  <a href="https://github.com/Shreya0789/-leech/commits/Shreya0789">
-    <img src="https://img.shields.io/github/last-commit/Shreya0789/-leech?style=for-the-badge&color=blue" alt="Last Commit"/>
+  <a href="https://github.com/Shreya0789/Annex/commits/Shreya0789">
+    <img src="https://img.shields.io/github/last-commit/Shreya0789/Annex?style=for-the-badge&color=blue" alt="Last Commit"/>
   </a>
 
   <!-- Repo Size -->
-  <a href="https://github.com/Shreya0789/-leech">
-    <img src="https://img.shields.io/github/repo-size/Shreya0789/-leech?style=for-the-badge&color=success" alt="Repo Size"/>
+  <a href="https://github.com/Shreya0789/Annex">
+    <img src="https://img.shields.io/github/repo-size/Shreya0789/Annex?style=for-the-badge&color=success" alt="Repo Size"/>
   </a>
 
   <!-- Language -->
@@ -28,25 +28,25 @@
   </a>
   
   <!-- Open Issues -->
-  <a href="https://github.com/Shreya0789/-leech/issues">
-    <img src="https://img.shields.io/github/issues/Shreya0789/-leech?style=for-the-badge&color=red" alt="Issues"/>
+  <a href="https://github.com/Shreya0789/Annex/issues">
+    <img src="https://img.shields.io/github/issues/Shreya0789/Annex?style=for-the-badge&color=red" alt="Issues"/>
   </a>
 
   <!-- Pull Requests -->
-  <a href="https://github.com/Shreya0789/-leech/pulls">
-    <img src="https://img.shields.io/github/issues-pr/Shreya0789/-leech?style=for-the-badge&color=purple" alt="PRs"/>
+  <a href="https://github.com/Shreya0789/Annex/pulls">
+    <img src="https://img.shields.io/github/issues-pr/Shreya0789/Annex?style=for-the-badge&color=purple" alt="PRs"/>
   </a>
 
   <!-- GitHub Workflow CI -->
-  <a href="https://github.com/Shreya0789/-leech/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/Shreya0789/-leech/code-fixer.yml?style=for-the-badge&label=CI&logo=github" alt="CI Status"/>
+  <a href="https://github.com/Shreya0789/Annex/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/Shreya0789/Annex/code-fixer.yml?style=for-the-badge&label=CI&logo=github" alt="CI Status"/>
   </a>
 </p>
 
 
 ## 🚀 Quick Deploy
 
-[![Deploy on Heroku](https://img.shields.io/badge/Deploy%20on%20Heroku-430098?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/Shreya0789/-leech)
+[![Deploy on Heroku](https://img.shields.io/badge/Deploy%20on%20Heroku-430098?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/Shreya0789/Annex)
 
 ---
 
